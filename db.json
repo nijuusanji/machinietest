@@ -1,25 +1,25 @@
 {
     "tokens": [
         {
-          "id": 0,
-          "description": "Machinies are a collection of 8,888 units of machine forever run on Ethereum Blockchain.",
-          "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
-          "image": "https://ipfs.io/ipfs/QmWeE2UGxcSD6pkbopvhbVGszGzaaxAioFz9UAEk3rcmpS?filename=113-2-1.gif",
-          "name": "MachinieTest #1"
+            "id": 0,
+            "description": "My NFT",
+            "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
+            "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
+            "name": "My NFT 0"
         },
         {
-          "id": 1,
-          "description": "Machinies are a collection of 8,888 units of machine forever run on Ethereum Blockchain.",
-          "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
-          "image": "https://ipfs.io/ipfs/QmQRf9ZfD7PRDvA5LD1wzvvNB7DJsnFNRwPXmRCXCZaKc9?filename=113-2-1837.gif",
-          "name": "MachinieTest #2"
+            "id": 1,
+            "description": "My NFT",
+            "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
+            "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
+            "name": "My NFT 1"
         },
         {
-          "id": 2,
-          "description": "Machinies are a collection of 8,888 units of machine forever run on Ethereum Blockchain.",
-          "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
-          "image": "https://ipfs.io/ipfs/QmUmGszvhkUoEjPyrTo7BWd8YWjr4KpgD7rivqFY15CjDG?filename=113-2-981.gif",
-          "name": "MachinieTest #3"
+            "id": 2,
+            "description": "My NFT",
+            "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
+            "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
+            "name": "My NFT 2"
         }
     ]
 }
